@@ -1,0 +1,147 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: 	#dfe3ee;
+}
+.centre {
+    text-align: center;
+    display: block;
+}
+img.center{
+    margin-top: 50px;
+}
+.container{
+    width: 500px;
+    height: 680px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    border: 5px solid thick;
+    border-radius: 8px;
+
+}
+div#mainheading{
+    text-align: center;
+    line-height: 100px;    
+    font-size: 25px;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+}
+#mainid{
+    text-align: center;
+    margin-top: -42px;
+}
+hr{
+    width: 100%;
+}
+
+input{
+    margin-right: 12px;
+    width: px;
+}
+.mainitem{
+    margin-left: 30px;
+    margin-top: 25px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    
+}
+.type1{
+    width: 40%;
+    padding: 12px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    background-color: transparent;
+    border-radius: 2px solid thick;
+    font-size: 16px;
+
+
+    
+}
+.type2{
+    width: 40%;
+    padding: 12px;
+    margin-left: -6px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    background-color: transparent;
+    border-radius: 2px solid thick ;
+    font-size: 16px;
+
+
+
+
+}
+.type3{
+    width: 88%;
+
+    padding: 12px;
+font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+background-color: transparent;
+border-radius: 2px ;
+font-size: 16px;
+font-size: 18px;
+
+
+}
+.type4{
+    width: 88%;
+    padding: 12px;
+    background-color: transparent;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    border-radius: 2px ;
+    font-size: 16px;
+
+
+
+   
+}
+
+#spanid{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.heading1{
+    float: left;
+    margin-right: -1px;
+    width:150px;
+    padding: 8px;
+}
+.heading2{
+    float: left;
+    margin-left: 10px;
+    width:123px;
+    padding: 8px;
+}
+.heading3{
+    float: right;
+    margin-left: 100px;
+    margin-top: -35px;
+    margin-right: 30px;
+    width:150px;
+    padding: 8px;
+    
+    
+}
+.mainspanid{
+    line-height: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+    
+}
+.btn{
+    background-color: #00a400;
+    border-radius: 6px;
+    padding: 12px;
+    margin-top: -300px;
+    width: 30%;
+    font-size: 20px;
+    border: none;
+    list-style-type: none;
+
+}
+a{
+    text-decoration: none;
+    
+}
+
+
+
+
